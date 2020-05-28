@@ -1,0 +1,7 @@
+# Customized
+*.sw*
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+plots/
